@@ -23,6 +23,6 @@ To develop a simple **User Login System** using:
 3. Deploy & Run → `http://localhost:8080/Exp3.1_UserLogin/login.html`
 
 ## 🧾 Author
-**Abhay Pratap Singh Spehia**  
-UID: 23bcs11390  
+**Manav Thakur**  
+UID: 23bcs10013
 Chandigarh University
